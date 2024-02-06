@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    font-family: 'Poppins', Courier, monospace;
+}
+.video{
+    height: 100%;
+    width: 100%;
+}
+svg{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+}
